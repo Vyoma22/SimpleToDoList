@@ -21,4 +21,4 @@ This is a creative and minimalist **To-Do List Web App** that allows users—esp
 - Future expansion: MySQL database support
 
 ## 🖼️ Screenshots
-![Add Task Interface](./screenshots/add-task.png)
+![Add Task Interface](tasks.png)
